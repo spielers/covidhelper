@@ -51,9 +51,6 @@ for ios use xclient and compile this again
 ## Features
 
 
-## Code Example
-
-
 ## Installation
 
 1]download or fork this repo
