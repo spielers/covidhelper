@@ -50,6 +50,15 @@ for ios use xclient and compile this again
 
 ## Features
 
+### Accurate Daily stats 
+
+### SOS function with twilio sms api
+
+### indian helpline numbers
+
+### indian local stats
+
+### Acurate news of your area
 
 ## Installation
 
